@@ -1,0 +1,6 @@
+﻿  Lights_Sphere_PerFragment_PP.cpp
+C:\Users\Sucheta\Desktop\Assignement\1_Shader_Vertex_Fragment_Shader\Own_Sphere\vmath.h(996,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sucheta\Desktop\Assignement\1_Shader_Vertex_Fragment_Shader\Own_Sphere\Lights_Sphere_PerFragment_PP.cpp(560,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Sucheta\Desktop\Assignement\1_Shader_Vertex_Fragment_Shader\Own_Sphere\Lights_Sphere_PerFragment_PP.cpp(639,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Sucheta\Desktop\Assignement\1_Shader_Vertex_Fragment_Shader\Own_Sphere\Lights_Sphere_PerFragment_PP.cpp(669,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  LIGHTS_SPHERE_PERFRAGMENT_PP.vcxproj -> C:\Users\Sucheta\Desktop\Assignement\1_Shader_Vertex_Fragment_Shader\Own_Sphere\Debug\LIGHTS_SPHERE_PERFRAGMENT_PP.exe
